@@ -20,7 +20,8 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 - 💭 O verdadeiro conhecimento não está em saber todas as respostas, mas em nunca perder a curiosidade de questionar o mundo.
 <br>
-<div padding-top="4">
+<div  >
   <a href="https://github.com/Mayconsrc">
   <img height="330" src="./lindo.png">
+  <img height="330" src="./maycon.png">
 </div>
